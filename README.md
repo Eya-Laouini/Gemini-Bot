@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Gemini_API_KEY=your_api_key_here
 
 2. Generate your Gemini API Key:
-3. 
+
 To generate your own Gemini API Key access: https://aistudio.google.com/app/apikey
 
 3. Launch the application
